@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "新次元の禁じ手",
+  "base_artist": "フロクロ",
+  "createdAt": "2025-12-31T09:42:22.626067Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "新次元の禁じ手",
+      "artist": "フロクロ",
+      "has_synced": false,
+      "path": "select/pl_01_新次元の禁じ手_フロクロ.txt"
+    }
+  ]
+}
